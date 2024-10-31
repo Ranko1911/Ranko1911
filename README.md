@@ -36,8 +36,6 @@ I am currently studying a higher degree in computer engineering.<br>In the meant
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ranko1911&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ranko1911&icon=1&color=6)](https://visitcount.itsvg.in)
