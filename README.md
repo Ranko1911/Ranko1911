@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I am currently studying a higher degree in computer engineering.<br>In the meantime, I'm developing my HTML and CSS skills on a personal website and creating small projects in C++, TypeScript, and Python.<br>Learning has always motivated me, becoming a hobby.<br>If you want to contact me, I am more than happy to hear new proposals.
+I am a computer engineering.<br>I've been working on my fullstack skills with Mongo, Experss, Angular, React, Node, Java, Typescript, etc.<br>Learning has always motivated me, becoming a hobby.<br>If you want to contact me, I am more than happy to hear new proposals.
 
 <!--
 ## 🌐 Socials:
