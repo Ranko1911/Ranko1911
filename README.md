@@ -61,7 +61,6 @@ const ancor = {
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-
 <br/>
 
 </div>
@@ -72,7 +71,6 @@ const ancor = {
 
 ### 📊 GitHub Stats
 
-<p align="center">
   <a href="https://github.com/Ranko1911">
     <img src="https://github-readme-stats.vercel.app/api?username=Ranko1911&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Github Stats" />
   </a>
@@ -80,7 +78,6 @@ const ancor = {
   <a href="https://github.com/Ranko1911">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranko1911&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
   </a>
-</p>
 
 <a href="https://github.com/Ranko1911"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ranko1911&theme=tokyonight&hide_border=true" alt="Streak Stats" /> </a>
 
