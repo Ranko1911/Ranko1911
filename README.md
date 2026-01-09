@@ -71,13 +71,11 @@ const ancor = {
 
 ### 📊 GitHub Stats
 
-  <a href="https://github.com/Ranko1911">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ranko1911&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Github Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ranko1911">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranko1911&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats-six-gray-16.vercel.app/api?username=Ranko1911&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-six-gray-16.vercel.app/api/top-langs?username=Ranko1911&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
 
 <a href="https://github.com/Ranko1911"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ranko1911&theme=tokyonight&hide_border=true" alt="Streak Stats" /> </a>
 
