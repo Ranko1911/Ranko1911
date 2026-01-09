@@ -45,12 +45,6 @@ const ancor = {
 ![](https://nirzak-streak-stats.vercel.app/?user=Ranko1911&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranko1911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📦 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranko1911&layout=compact&theme=radical&hide_border=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ranko1911&icon=0&color=0)](https://visitcount.itsvg.in)
 
