@@ -89,19 +89,10 @@ const ancor = {
 
 <div align="center">
 
-### 📊 GitHub Stats
+📊 GitHub Stats
+<div style="display: flex; justify-content: center; gap: 10px;"> <a href="https://github.com/Ranko1911"> <img src="https://github-readme-stats.vercel.app/api?username=Ranko1911&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Github Stats" /> </a> <a href="https://github.com/Ranko1911"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranko1911&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /> </a> </div>
 
-  <a href="https://github.com/Ranko1911">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ranko1911&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/Ranko1911">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranko1911&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-  <br/>
-  <a href="https://github.com/Ranko1911">
-    <img src="https://streak-stats.demolab.com/?user=Ranko1911&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  </a>
+<a href="https://github.com/Ranko1911"> <img src="https://streak-stats.demolab.com/?user=Ranko1911&theme=tokyonight&hide_border=true" alt="Streak Stats" /> </a>
 
 </div>
 
