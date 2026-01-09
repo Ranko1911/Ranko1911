@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on a private project to learn and maybe sell<br>👯 I’m looking to collaborate on a couple of little ideas<br>🌱 I’m currently learning IA and fullstack
+# 👨‍💻 Ancor González
+
+```javascript
+const ancor = {
+  learn: "Always",
+  train: "Whenever I can",
+  sleep: "Only when allowed",
+  currentFocus: ["AI", "Fullstack", "Gym"]
+};
+
+// "Estudio cuando debo, Ejercito cuando puedo, Descanso cuando me dejan."
+```
+
+### 💫 About Me:
+- 🔭 **Working on:** A private project to learn (and maybe sell 💸).
+- 👯 **Looking for:** Collaboration on small creative ideas.
+- 🌱 **Learning:** AI & Fullstack Development.
 
 
 ## 🌐 Socials:
